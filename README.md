@@ -46,4 +46,4 @@ FAILED (failures=1)
 
 ## Future Improvements:
 * Implement configuration to easily cycle Selenium targets between Chrome, Firefox, etc.
-* Either roll on template or find a better library to prettify results.
+* Either roll own template or find a better library to prettify results.
